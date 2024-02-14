@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Support\\Desktop\\Win_Forms_Classwork_3\\1_WForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB88C557-B784-4467-AA48-A0B410CF5F48}|2_WForm\\2_WForm.csproj|c:\\users\\support\\desktop\\win_forms_classwork_3\\1_wform\\2_wform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB88C557-B784-4467-AA48-A0B410CF5F48}|2_WForm\\2_WForm.csproj|solutionrelative:2_wform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB88C557-B784-4467-AA48-A0B410CF5F48}|2_WForm\\2_WForm.csproj|c:\\users\\support\\desktop\\win_forms_classwork_3\\1_wform\\2_wform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB88C557-B784-4467-AA48-A0B410CF5F48}|2_WForm\\2_WForm.csproj|solutionrelative:2_wform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 135,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Support\\Desktop\\Win_Forms_Classwork_3\\1_WForm\\2_WForm\\Form1.cs",
+              "RelativeDocumentMoniker": "2_WForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Support\\Desktop\\Win_Forms_Classwork_3\\1_WForm\\2_WForm\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "2_WForm\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T18:48:06.111Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Support\\Desktop\\Win_Forms_Classwork_3\\1_WForm\\2_WForm\\Form1.cs",
+              "RelativeDocumentMoniker": "2_WForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Support\\Desktop\\Win_Forms_Classwork_3\\1_WForm\\2_WForm\\Form1.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "2_WForm\\Form1.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwEwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T18:48:06.318Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
